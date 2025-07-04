@@ -10,7 +10,7 @@ namespace Rushi_Sorathiya_23SOECE11037
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World from Q2");
+            Console.WriteLine("Hello World ");
         }
     }
 }
