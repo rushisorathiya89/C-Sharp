@@ -1,0 +1,2 @@
+D:\C-Sharp\NB\obj\Debug\NB.csproj.AssemblyReference.cache
+D:\C-Sharp\NB\obj\Debug\NB.csproj.CoreCompileInputs.cache
