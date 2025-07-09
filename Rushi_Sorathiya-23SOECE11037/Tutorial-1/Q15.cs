@@ -23,7 +23,7 @@ namespace Rushi_Sorathiya_23SOECE11037.Tutorial_1
             }
             if (sum == originalNumber)
             {
-                Console.WriteLine(originalNumber + "i s the Armstrong Number.");
+                Console.WriteLine(originalNumber + " is the Armstrong Number.");
             }
             else
             {
