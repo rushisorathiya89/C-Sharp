@@ -44,7 +44,11 @@ namespace NB.OOP
 
             if(e1.getSalary()> e2.getSalary())
             {
-                Console.WriteLine(""
+                Console.WriteLine("e1 salary is grater than e2 salary");
+            }
+            else
+            {
+                Console.WriteLine("e2 salary is grater than e1 salary");
             }
         }
     }
