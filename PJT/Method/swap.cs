@@ -8,6 +8,11 @@ namespace PJT.Method
 {
     internal class swap
     {
+        /// <summary>
+        /// This is the swap class. it is swap two numbers.
+        /// </summary>
+        /// <param name="i"> first referance value</param>
+        /// <param name="j">second referance value</param>
         static void swapnum(ref int i,ref int j)//i and j is reference variables 
         {
             //int temp;
