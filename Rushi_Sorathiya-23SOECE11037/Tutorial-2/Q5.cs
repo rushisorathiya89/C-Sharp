@@ -24,8 +24,16 @@ namespace Rushi_Sorathiya_23SOECE11037.Tutorial_2
                 {
                     continue;
                 }
-
-
+                int count = 1;
+                for (int j = i + 1; j < numbers.Length; j++)
+                {
+                    if (numbers[i] == numbers[j])
+                    {
+                        ans[j] = true;
+                        count++;
+                    }
+                }
+                Console.WriteLine("Frequency of {0} is {1} ", numbers[i], count);
             }
         }
     }
