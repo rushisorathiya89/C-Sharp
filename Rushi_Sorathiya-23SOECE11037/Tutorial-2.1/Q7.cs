@@ -56,7 +56,6 @@ namespace Rushi_Sorathiya_23SOECE11037.Tutorial_2._1
                 Console.WriteLine("After swap, value of b : {0}", b);
 
 
-
                 Console.ReadLine();
 
             }
