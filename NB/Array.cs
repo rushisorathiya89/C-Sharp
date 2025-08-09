@@ -8,6 +8,11 @@ namespace NB
 {
     internal class Array
     {
+        internal static void Sort(int[] a)
+        {
+            throw new NotImplementedException();
+        }
+
         static void Main(string[] args)
         {
             //int[] arr =new int[5]; 
